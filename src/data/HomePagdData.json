@@ -1,0 +1,281 @@
+{
+  "hero": {
+    "imgUrl": "/images/home-banner.png",
+    "name": "Zeeshan Iqbal",
+    "heading": "Hay! I’m Zeeshan",
+    "typingText": [ "I'm a Full Stack Developer", 1500],
+    "description": "Full Stack Developer with 7+ years of experience in LAMP, MERN, and AWS, delivering optimized web applications across domains. Successfully led projects like a ride-hailing app for the Middle East and a community engagement platform.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/zeeshan965"
+    },
+    { "icon": "fa-brands:google", 
+    "iconBgClass": "Gmail", 
+    "href": "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwRfBnFZDVgbzndjXJDlchNQSBSbnhTmtRDMWlcPqBRJQxRHKxQhKDNHZLRLjljwPfSCtdH" 
+  },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/zeeshaniqbal965/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.png",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>FULL STACK</span> PROJECTS",
+    "description": "Experienced Full Stack Developer with 7+ years of expertise in designing and delivering web applications across diverse domains. Proficient in LAMP, MERN, and AWS, with a strong focus on back-end and front-end development, optimized coding, and project leadership. Notable achievements include leading the development of a Middle East ride-hailing app and a community engagement platform.",
+    "funfacts": [
+      {
+        "title": "Satisfied Clients",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 7
+      },
+      {
+        "title": " Employee of the month",
+        "number": 3
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/popup-project-1.jpg",
+        "title": "BIB",
+        "link": "https://www.bib.com/",
+        "details": {
+          "title": "BIB",
+          "description": "The application is designed with a dual purpose: to streamline client onboarding processes and conduct thorough background checks on their users.",
+          "type": "Website",
+          "langages": "Node, Nest, React, TypeScript, Marerial UI, TypeOrm, Postgres, Redis, Bull Queu",
+          "url": "https://www.bib.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-2.jpg",
+        "title": "Coach Sports Analysis",
+        "link": "https://coach-page.vercel.app/",
+        "details": {
+          "title": "Coach Sports Analysis",
+          "description": "Coach Analysis is a sports platform facilitating digital communication for coaches/clubs with teams and players. Developed with Next.js and TypeScript, backed by Nest JS. AWS S3 handles storage, Stripe manages payments. The app supports video streaming, analysis, and reporting for coaches and teams",
+          "type": "Website",
+          "langages": "PHP, HTML, CSS, JS",
+          "url": "https://coach-page.vercel.app/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-3.jpg",
+        "title": "Jeeny",
+        "link": "https://play.google.com/store/apps/details?id=me.com.easytaxi&hl=en&gl=US",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Jeeny is a Middle Eastern-based mobile application that hosts multiple services to ease daily consumer needs such as transportation, integrated wallet top-up transactions, mobility, and much more on-demand with a wallet that spans all services together. Jeeny has built up a ride-hailing app that serves the Middle East market in their daily transportation needs. ",
+          "type": "App",
+          "langages": "icroservices base architecture based on multiple tech stacks that include Express, Nest, Symfony, Silex, Laravel, Next, React, JS, MySQL, Mongo, and AWS.",
+          "url": "https://play.google.com/store/apps/details?id=me.com.easytaxi&hl=en&gl=US"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-4.jpg",
+        "title": "CRM Newrich",
+        "link": "https://newrich.com/",
+        "details": {
+          "title": "CRM Newrich",
+          "description": "A robust customer relationship management (CRM) solution developed with Laravel and MySQL for efficient management and enhanced customer interactions.",
+          "type": "Website",
+          "langages": "Express, React, JS, MySQL, Mongo, and AWS.",
+          "url": "https://newrich.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/popup-project-6.jpg",
+        "title": "Agency Sales Machine",
+        "link": "https://agencysalesmachine.com/",
+        "details": {
+          "title": "Agency Sales Machine",
+          "description": "Agency Sales Machine marketing and sales tracking and management software for insurance agencies.",
+          "type": "Website",
+          "langages": "Laravel, Stripe, Cashier, JS, jQuery, MySQL.",
+          "url": "https://agencysalesmachine.com/"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "<span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/service-01.jpg",
+        "title": "Web Development",
+        "subTitle": "Crafting responsive, user-friendly websites with clean code and modern design principles.",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-02.jpg",
+        "title": "Mobile Application Development",
+        "subTitle": "Developing intuitive and high-performing mobile apps  across Android and iOS platforms.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/service-03.jpg",
+        "title": "Software Testing",
+        "subTitle": "Ensuring software reliability and quality through comprehensive testing and bug detection strategies",
+        "icon": "bi:speedometer2",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/service-04.jpg",
+        "title": "Custom Software Development",
+        "subTitle": "Building custom software to meet unique business needs and drive efficiency.",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "link": "https://kwanso.com/", 
+        "designation": "Team Lead",
+        "company": "Kwanso",
+        "duration": "MAR 2023 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "Kwanso",
+        "companyDescription": "Research and estimate for new project requirements. Communicate with the client during requirement gathering. Design an ERD schema and break down application features into logical modules. Develop APIs using REST and GraphQL. Write migrations using the ORM Typeorm. Design the architecture of the application. Conduct PR reviews on Git."
+      },
+      {
+        "link": "https://jeeny.me/en", 
+        "designation": "Full Stack Lead",
+        "company": "Jeeny (Rocket Internet)",
+        "duration": "08/2021 - 02/2023 ",
+        "jobType": "Full time",
+        "companyTitle": "Jeeny",
+        "companyDescription": "As a Technical Team Lead at Jeeny, I designed and developed a payment microservice in Express integrating HyperPay, Tabby, and STC Wallet for driver withdrawals. I implemented the Forward Dispatch feature, a Discounts and Promo System, and updated ride cancellation strategies while refining the Surge feature. Developed Connect and Feedback services to handle SMS and manage app feedback. Managed AWS services, performed builds and deployments with Jenkins, and monitored systems using AWS tools and New Relic."
+      },
+      {
+        "link": "https://www.purelogics.net/", 
+        "designation": "Senior Full Stack Developer",
+        "company": "Purelogics",
+        "duration": "10/2017 - 07/2021",
+        "jobType": "Full time",
+        "companyTitle": "Purelogics",
+        "companyDescription": "As a senior full-stack developer skilled in LAMP and MEAN stacks, I contributed to architectural design and end-to-end application development. Built Thinknative, a healthcare community platform supporting video, widgets, transcription, and WebRTC, growing to 100k+ users. Developed Agency Sales Machine, a marketing and sales tracking tool for insurance agencies, from scratch. Led the development of Culab, an app extracting Instagram data to deliver tailored marketing strategies."
+      },
+      {
+        "designation": "Full Stack Developer",
+        "company": "Contegris",
+        "duration": "07/2016 - 10/2017",
+        "jobType": "Full time",
+        "companyTitle": "Contegris",
+        "companyDescription": "In my role, I focused on developing diverse business solutions by leveraging leading technologies, frameworks, plugins, and libraries. My responsibilities included building dynamic applications utilizing frameworks such as Express, Laravel, and React.Additionally, I handled Node backend implementation, conducted responsive and system testing, and managed database operations to ensure seamless functionality and performance."
+      },
+      {
+        "designation": "Front End Engineer",
+        "company": "Emenac Inc.",
+        "duration": "01/2016 - 07/2016",
+        "jobType": "Full time",
+        "companyTitle": "Emenac Inc.",
+        "companyDescription": "Emenac has been the leading BPO, consulting, technology, and software group and one of the most financially stable companies in the BPO field. I worked their as UI Developer, My responsibility was to convert PSD to HTML, HTML5/CSS3/JS/jQuery, Front End Development, WordPress."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>4,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "I am writing to highly recommend Zeeshan Ahmad for his outstanding contributions as the Backend Lead at LinkedIn. Having had the pleasure of working closely with Zeeshan, I have been consistently impressed by his technical expertise, leadership skills, and dedication to delivering high-quality results.",
+        "avatarImg": "/images/avatar-1.jpg",
+        "avatarName": "Yasir Aqeel",
+        "avatarCompany": "Data Engineering"
+      },
+      {
+        "reviewText": "highly recommend Zeeshan. I found him to be an excellent Team Lead. Not only this but also he was exceptionally adept at problem solving. Moreover, his technical acumen was second to none. Furthermore, his sense of responsibility spoke volumes about his character. He will be a valuable addition to any organization.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Taimoor Ahmad Khan",
+        "avatarCompany": "Data Analytics"
+      },
+      {
+        "reviewText": "Zeeshan takes ownership of what assigned to him and delivers quality results. Zeeshan is a proactive, self-motivated, intelligent, and goal-oriented team player. I highly recommend Zeeshan on any project!",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Ahmad Mukhtar",
+        "avatarCompany": "Solution Architect"
+      },
+      {
+        "reviewText": "Zeeshan takes ownership of what assigned to him and delivers quality results. Zeeshan is a proactive, self-motivated, intelligent, and goal-oriented team player. I highly recommend Zeeshan on any project!",
+        "avatarImg": "/images/avatar-5.jpg",
+        "avatarName": "Ali Hassan ",
+        "avatarCompany": "Seasoned Senior Software Engineer "
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact-us.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "dev.zeeshan.iqbal@gmail.com" },
+      { "title": "write an e-mail", "tel": "+923454771299" }
+    ]
+  }
+}
